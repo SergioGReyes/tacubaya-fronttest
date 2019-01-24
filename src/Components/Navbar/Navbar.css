@@ -1,0 +1,28 @@
+
+.navbar{
+  position: fixed;
+  background-color: rgb(153, 0, 0);
+  height: 100px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.tacubaya-link{
+  margin-left: 2%;
+  color: white;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.tacubaya-link:hover{
+  text-decoration: none;
+  color: rgb(151, 151, 151);
+}
+.album-lik{
+  margin-left: 2%;
+  color: white;
+  font-size: 20px;
+}
+.album-lik:hover{
+  text-decoration: none;
+  color: rgb(151, 151, 151);
+}

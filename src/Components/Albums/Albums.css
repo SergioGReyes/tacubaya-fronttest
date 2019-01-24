@@ -1,0 +1,10 @@
+.album{
+  padding-top: 15px;
+  overflow: scroll;
+}
+.margin-navbar{
+  height: 100px;
+}
+.album-container{
+  margin-top: 5%;
+}
