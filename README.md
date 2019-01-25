@@ -4,9 +4,9 @@
 
 Required: <br>
 Use Angular 2.0 or Angular 4.0 <br>
-Use Bootstrap
+Use Bootstrap<br>
 Bonus: <br>
-Use unitary testing
+Use unitary testing<br>
 Instructions: <br>
 Using the next API, two endpoints should be consumed and the results displayed. 
 The application must be consist of two pages.
