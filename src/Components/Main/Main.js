@@ -9,7 +9,7 @@ export default class Main extends Component {
       <div>
         <Navbar />
         <div className="main-container">
-          <h1 className="main-title">Welcome<br/>to<br/>Tacubaya App</h1>
+          <h1 className="main-title">Welcome to Tacubaya App</h1>
         </div>
 
       </div>

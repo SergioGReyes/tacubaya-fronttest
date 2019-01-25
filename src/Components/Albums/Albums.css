@@ -1,10 +1,16 @@
 .album{
   padding-top: 15px;
   overflow: scroll;
+  width: 50%;
 }
 .margin-navbar{
   height: 100px;
 }
 .album-container{
-  margin-top: 5%;
+  align-items: center;
+  margin: 5% 0;
+  padding: 0 5%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }

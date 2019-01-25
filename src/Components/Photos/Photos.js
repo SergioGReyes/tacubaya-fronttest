@@ -52,7 +52,7 @@ export default class Photos extends Component {
         <div className="load-container">
           <p>Loading...</p>
         </div>
-        
+
       )
   }
 }
