@@ -2,7 +2,7 @@
 
 <h3>Build a web application with the following characteristics:</h3>
 
-Required:
+Required: <br>
 Use Angular 2.0 or Angular 4.0
 Use Bootstrap
 Bonus:
