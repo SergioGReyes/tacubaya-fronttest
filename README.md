@@ -1,4 +1,4 @@
-Technical code test
+<h1>Technical code test<h1/>
 
 Build a web application with the following characteristics:
 
