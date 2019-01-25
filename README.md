@@ -2,12 +2,12 @@
 
 <h3>Build a web application with the following characteristics:</h3>
 
-Required:<br><br>
-Use Angular 2.0 or Angular 4.0
+Required:<br>
+Use Angular 2.0 or Angular 4.0<br>
 Use Bootstrap
-Bonus:<br><br>
+Bonus:<br><
 Use unitary testing
-Instructions:<br><br>
+Instructions:<br>
 Using the next API, two endpoints should be consumed and the results displayed. 
 The application must be consist of two pages.
 
